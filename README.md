@@ -7,7 +7,7 @@ Open to freelance automation work and remote AI engineering roles. [manveen.me](
 **What I've built**
 
 - **[Tender Radar](https://github.com/Manveen07/tender-radar-showcase)** reads every new UK public tender each morning and answers bid, maybe or skip, with the reason quoted from the notice. 3,671 checks so far, running unattended on GitHub Actions since July.
-- **A Slack task tracker on n8n with 149 tests.** The Code-node JavaScript, the workflow file, replayed Slack clicks, deploys and email links are all tested. [How I test it](https://manveen.me/writing/149-tests-for-a-few-slack-buttons), and [a public version you can run](https://github.com/Manveen07/n8n-workflow-tests) with 45 of the same kinds of test.
+- **A Slack task tracker on n8n with 149 tests.** The Code-node JavaScript, the workflow file, replayed Slack clicks, deploys and email links are all tested. [How I test it](https://manveen.me/writing/149-tests-for-a-few-slack-buttons), and [a public version you can run](https://github.com/Manveen07/n8n-workflow-tests) with 45 tests.
 - **An engineering-drawing reader** that turns PDFs into a quote sheet. On 23 hand-checked drawings it got 7 values wrong out of 419, and parts lists 194 of 194. Every value carries the text it came from. [How I marked it](https://manveen.me/writing/marking-the-ais-homework).
 - **An AI receptionist** that answers phone calls and books appointments. A second AI plays difficult callers, and plain-code checks fail any call that invents a price or books outside opening hours.
 - **A daily lead feed.** Claude judges posts from Slack communities, LinkedIn, Reddit and forums. On 58 hand-labelled posts it catches 14 of 14 real leads with 0 false alarms.
